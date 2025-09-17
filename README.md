@@ -32,7 +32,8 @@ My expertise lies in **Automotive Software Engineering, Cloud Technologies, and 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/viveksubraveti)  
 - [GitHub](https://github.com/viveksubraveti)  
-- [Email](mailto:viveksubraveti@gmail.com)  
+- [Email](mailto:viveksubraveti@gmail.com)
+- [Portfolio](https://www.viveksubraveti.com)
 
 ---
 
