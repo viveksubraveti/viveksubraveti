@@ -23,9 +23,9 @@ My expertise lies in **Automotive Software Engineering, Cloud Technologies, and 
 ---
 
 ## Featured Projects
-- [ADAS Data Reduction with Computer Vision](#) – Master’s thesis on optimizing raw storage size by filtering non-traffic-relevant information using computer vision and deep learning.  
-- [Kubernetes Hands-on Labs](#) – Practical labs covering deployments, services, networking, and Helm.  
-- [AWS Cloud Projects](#) – Implementing cloud-native applications and serverless workflows.  
+- **ADAS Data Reduction with Computer Vision – Master’s thesis on optimizing raw storage size by filtering non-traffic-relevant information using computer vision and deep learning.  
+- **Kubernetes Hands-on Labs – Practical labs covering deployments, services, networking, and Helm.  
+- **AWS Cloud Projects – Implementing cloud-native applications and serverless workflows.  
 
 ---
 
