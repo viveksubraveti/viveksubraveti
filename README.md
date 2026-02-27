@@ -27,13 +27,13 @@ Full Stack Developer with **5+ years** of professional experience across **3 com
 ## 🏅 Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/250dbc3e-90c9-4e2e-9423-93be334b3b4f"><img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" width="80"/></a>
-  <a href="https://www.credly.com/badges/643d1e9d-d2e3-4330-9ce2-3f1ef3998906"><img src="https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0571b6b36f8b/image.png" alt="CKAD" width="80"/></a>
-  <a href="https://www.credly.com/badges/d90d212f-09ad-4aeb-b712-3de74c8e2230"><img src="https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" width="80"/></a>
-  <a href="https://www.credly.com/badges/e72143bc-06fd-4391-9048-5f50d7ca952f"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA" width="80"/></a>
-  <a href="https://www.credly.com/badges/4a1bbee5-cb68-4641-8ed0-edd6ac2e7fd8"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CCP" width="80"/></a>
-  <a href="https://www.credly.com/badges/1378ae3c-ae6b-4cce-9889-9ba625da5663"><img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS AI" width="80"/></a>
-  <a href="https://www.credly.com/badges/6fb9f186-725a-42be-a6bb-72675d7e4429"><img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform" width="80"/></a>
+  <a href="https://www.credly.com/badges/6fb9f186-725a-42be-a6bb-72675d7e4429"><img src="https://www.viveksubraveti.com/tf.png" alt="Terraform Associate" width="80"/></a>
+  <a href="https://www.credly.com/badges/250dbc3e-90c9-4e2e-9423-93be334b3b4f"><img src="https://www.viveksubraveti.com/cka.png" alt="CKA" width="80"/></a>
+  <a href="https://www.credly.com/badges/d90d212f-09ad-4aeb-b712-3de74c8e2230"><img src="https://www.viveksubraveti.com/kcna_new.png" alt="KCNA" width="80"/></a>
+  <a href="https://www.credly.com/badges/643d1e9d-d2e3-4330-9ce2-3f1ef3998906"><img src="https://www.viveksubraveti.com/ckad.png" alt="CKAD" width="80"/></a>
+  <a href="https://www.credly.com/badges/e72143bc-06fd-4391-9048-5f50d7ca952f"><img src="https://www.viveksubraveti.com/saa.png" alt="AWS SAA" width="80"/></a>
+  <a href="https://www.credly.com/badges/1378ae3c-ae6b-4cce-9889-9ba625da5663"><img src="https://www.viveksubraveti.com/aws-ai.png" alt="AWS AI Practitioner" width="80"/></a>
+  <a href="https://www.credly.com/badges/4a1bbee5-cb68-4641-8ed0-edd6ac2e7fd8"><img src="https://www.viveksubraveti.com/aws-cloud.png" alt="AWS Cloud Practitioner" width="80"/></a>
 </p>
 
 ---
@@ -173,24 +173,13 @@ Hybrid computer vision and deep learning pipeline to reduce raw ADAS camera data
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viveksubraveti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksubraveti&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveksubraveti&theme=tokyonight" alt="GitHub Profile Details" width="700"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksubraveti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viveksubraveti&theme=tokyonight" alt="GitHub Stats" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=viveksubraveti&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viveksubraveti/viveksubraveti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viveksubraveti/viveksubraveti/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/viveksubraveti/viveksubraveti/output/github-snake.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viveksubraveti&theme=tokyonight" alt="Top Languages by Repo" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viveksubraveti&theme=tokyonight" alt="Top Languages by Commit" height="170"/>
 
 </div>
 
@@ -202,7 +191,6 @@ Hybrid computer vision and deep learning pipeline to reduce raw ADAS camera data
 
 I'm always open to interesting conversations and collaboration opportunities.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-viveksubraveti.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.viveksubraveti.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveksubraveti)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveksubraveti@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cHYB5tLkmf8X24KVw75GykezH4xwBnwC/view?usp=sharing)
